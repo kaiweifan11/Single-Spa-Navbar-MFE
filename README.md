@@ -1,1 +1,1 @@
-# Single-Spa-Navbar-MFE
+# Single-Spa-Root-Config
